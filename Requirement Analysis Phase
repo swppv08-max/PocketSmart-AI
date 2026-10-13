@@ -1,0 +1,21 @@
+In this phase, the requirements needed to develop the project are identified.
+
+Functional Requirements
+
+1. User should select a shopping/planning category.
+2. User should enter the total budget.
+3. User should select a priority.
+4. System should calculate budget allocation.
+5. System should recommend suitable items.
+6. System should display planned spending.
+7. System should display remaining budget.
+8. User should be able to replace or swap recommended items.
+9. System should display money-saving tips.
+
+Non-Functional Requirements
+
+* Simple and user-friendly interface.
+* Responsive design.
+* Fast response.
+* Easy navigation.
+* Clear display of budget information.
